@@ -1,0 +1,19 @@
+html{
+    background-image: url(4thFloor.jpg);
+}
+.container{
+    height: 500px;
+    width: 400px;
+    background-color: #fff;
+    text-align: center;
+    border-radius: 5%;
+}
+#username,#password{
+    display: block;
+    margin: auto;
+}
+#logoHeader{
+    display:block;
+    margin:auto;
+    width: 200px;
+}
